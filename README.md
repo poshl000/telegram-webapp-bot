@@ -11,14 +11,12 @@ Bot consists of two parts:
 
 Built with [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) and [peewee orm](http://docs.peewee-orm.com/en/latest/)
 
-1. Execute
+1. Execute in `database` directory to create sqlite file to work with peewee:
 
 ```
 python3 create_database.py
 ```
 
-in `database` directory to create sqlite file to work with peewee
-
-2. Set telegram bot key in `config/config.ini`
-3. Edit products price in `config/products.yml`
+1. Set telegram bot key in `config/config.ini`
+2. Edit products price in `config/products.yml`
 
