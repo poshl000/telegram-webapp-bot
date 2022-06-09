@@ -1,2 +1,2 @@
 # telegram-webapp-bot
-Telegram bot web app example. 
+Telegram Web App bot example. 
