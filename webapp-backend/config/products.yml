@@ -1,0 +1,9 @@
+---
+- name: Product 1
+  price: 80.00
+- name: Product 2
+  price: 81.00
+- name: Product 3
+  price: 82.00
+- name: Product 4
+  price: 83.00
